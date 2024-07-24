@@ -1,0 +1,4 @@
+ruby 3.3.3
+nodejs 16.20.2
+yarn 1.22.22
+redis 7.0.15
